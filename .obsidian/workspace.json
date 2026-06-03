@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_informacion.md",
+                "file": "2_una_buena_pregunta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_informacion"
+              "title": "2_una_buena_pregunta"
             }
           }
         ]
@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "1_infor_doc/0_info.pdf",
-                "page": 16,
-                "left": -4,
-                "top": 199,
-                "zoom": 0.4
+                "page": 13,
+                "left": -26,
+                "top": 6,
+                "zoom": 0.6140625
               },
               "icon": "lucide-file-text",
               "title": "0_info"
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1795b3d2c14702a0",
@@ -211,8 +210,14 @@
   },
   "active": "bffc86d0a601640e",
   "lastOpenFiles": [
-    "1_infor_doc/0_info.pdf",
+    "2_imagenes/5_w_questions.png",
+    "2_una_buena_pregunta.md",
+    "Pasted image 20260602234851.png",
+    "2_imagenes/4_ejemplo_wh.png",
+    "2_imagenes/3_formular_pregunta.png",
+    "2_imagenes/2_base_que_la_sostiene.png",
     "1_informacion.md",
+    "1_infor_doc/0_info.pdf",
     "2_imagenes/1_ayuda.png",
     "2_imagenes",
     "1_infor_doc/1_como_investigar_en_el_SENA.pdf",
