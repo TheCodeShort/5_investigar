@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_una_buena_pregunta.md",
+                "file": "1_informacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_una_buena_pregunta"
+              "title": "1_informacion"
             }
           }
         ]
@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "1_infor_doc/0_info.pdf",
-                "page": 13,
-                "left": -26,
-                "top": 6,
-                "zoom": 0.6140625
+                "page": 7,
+                "left": -22,
+                "top": 323,
+                "zoom": 0.6921875000000001
               },
               "icon": "lucide-file-text",
               "title": "0_info"
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1795b3d2c14702a0",
@@ -210,8 +211,8 @@
   },
   "active": "bffc86d0a601640e",
   "lastOpenFiles": [
-    "2_imagenes/5_w_questions.png",
     "2_una_buena_pregunta.md",
+    "2_imagenes/5_w_questions.png",
     "Pasted image 20260602234851.png",
     "2_imagenes/4_ejemplo_wh.png",
     "2_imagenes/3_formular_pregunta.png",
