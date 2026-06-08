@@ -588,3 +588,165 @@ La imagen te está diciendo:
 **“No basta con tener una pregunta; también debes tener teoría que la sostenga. Y la hipótesis solo aparece si tu estudio realmente va a comprobar una relación o una explicación.”**
 
 Para tu tema, eso significa que **el marco teórico sí es obligatorio en la práctica**, pero **la hipótesis es opcional y depende del enfoque final**.
+
+
+# La ruta más limpia es esta
+
+`Planteamiento a la acción → Etapas de la investigación → Tema e idea → Enfoque → Problema → Objetivos y alcance → Nivel → Método → Marco teórico → Hipótesis (si aplica) → Resultados / informe`
+
+No quitaría casi ninguno. **Solo fusionaría “Planteamiento a la acción” y “Etapas de la investigación” en un mismo bloque inicial**, porque uno explica la lógica general del proyecto y el otro explica el recorrido temporal; en los materiales de CUN y SENA ambos terminan sirviendo para ordenar la formulación completa del proyecto. El SENA además insiste en diagnóstico, descripción de la propuesta, objetivos, metodología y resultados como parte de la formulación coherente.
+
+## 1) Planteamiento a la acción + Etapas de la investigación
+
+**Subtítulos que debe tener en cuenta**
+
+- Idea
+- Problema
+- Objetivos
+- Métodos
+- Resultados
+- Preparación
+- Ejecución
+- Procesamiento de la información
+- Redacción del informe
+
+Aquí no se escribe todavía “todo el proyecto”; aquí se entiende la lógica: primero nace una idea, luego se convierte en problema, después en objetivos, se elige el método y al final aparecen resultados e informe. Esa secuencia aparece tanto en la lámina de CUN como en la ruta de etapas del SENA.
+
+## 2) Tema e idea de investigación
+
+**Subtítulos que debe tener en cuenta**
+
+- Área de interés
+- Necesidad del contexto
+- Delimitación inicial
+- Fuentes de sustento
+- Primer acercamiento al problema
+
+El tema es amplio; la idea es la primera concreción. CUN lo presenta como algo que nace de la motivación del investigador y de una necesidad del contexto social o productivo; el SENA añade que el tema debe conducir a una idea sustentada en fuentes primarias o secundarias.
+
+## 3) Enfoque de investigación
+
+**Subtítulos que debe tener en cuenta**
+
+- Cuantitativo
+- Cualitativo
+- Mixto
+- Tipo de dato requerido
+- Forma de analizar la información
+- Tipo de pregunta
+
+Aquí decides desde dónde mirarás el fenómeno. CUN resume que el cuantitativo mide, el cualitativo interpreta y el mixto integra ambos; el SENA amplía que el enfoque define cómo se recogerán, analizarán y estudiarán los datos.
+
+## 4) El problema de investigación
+
+**Subtítulos que debe tener en cuenta**
+
+- Falla, barrera o deficiencia
+- Población o unidad de estudio
+- Tiempo
+- Espacio
+- Formulación interrogativa
+- Alcance claro
+
+El problema no es una ocurrencia: es una situación concreta que afecta algo o a alguien. CUN insiste en que debe ser claro, delimitado y expresado en forma de pregunta; SENA lo trata como el punto de partida para el diagnóstico y la posterior formulación del proyecto.
+
+## 5) Planteamiento de objetivos
+
+**Subtítulos que debe tener en cuenta**
+
+- Objetivo general
+- Objetivos específicos
+- Coherencia con la pregunta
+- Alcance
+- Verificabilidad
+- Realismo
+
+Los objetivos son la ruta del proyecto. El material de CUN los presenta como la forma de orientar el proceso investigativo, y el SENA en marco lógico pide que respondan al qué y para qué, y que cada uno sea medible y conectado con resultados.
+
+## 6) Niveles de la investigación
+
+**Subtítulos que debe tener en cuenta**
+
+- Exploratorio
+- Descriptivo
+- Analítico
+- Explicativo
+- Interpretativo
+- Argumentativo
+- Profundidad del estudio
+
+Aquí defines hasta dónde vas a llegar. CUN muestra los niveles desde el primer acercamiento hasta la propuesta teórica; el SENA explica que exploratorio, descriptivo y explicativo dependen de la profundidad y de si se buscan causas, características o relaciones.
+
+## 7) Métodos de investigación
+
+**Subtítulos que debe tener en cuenta**
+
+- Método según enfoque
+- Procedimiento de recolección
+- Técnica
+- Instrumento
+- Diseño de estudio
+- Relación con el nivel elegido
+
+El método es el camino operativo. CUN lo define como el conjunto de procedimientos para alcanzar los objetivos; el SENA refuerza que el método depende del enfoque y que las técnicas e instrumentos están subordinados a esa decisión.
+
+## 8) Marco teórico
+
+**Subtítulos que debe tener en cuenta**
+
+- Conceptos clave
+- Teorías
+- Antecedentes
+- Estado del arte
+- Fuentes confiables
+- Sustento conceptual
+
+Aquí se arma la base intelectual del proyecto. CUN lo presenta como el fundamento conceptual del estudio; SENA añade que el estado del arte o de la técnica reúne antecedentes, soluciones y conocimientos previos para sostener la propuesta.
+
+## 9) Hipótesis
+
+**Subtítulos que debe tener en cuenta**
+
+- Solo si el estudio lo requiere
+- Variables
+- Relación entre variables
+- Posible respuesta al problema
+- Comprobación con resultados
+
+No siempre va. CUN dice que en estudios exploratorios o descriptivos no necesariamente se formula; el SENA coincide en que suele aparecer cuando la investigación es cuantitativa o explicativa y necesita comprobar una relación o una causa.
+
+## 10) Resultados y redacción del informe
+
+**Subtítulos que debe tener en cuenta**
+
+- Hallazgos
+- Análisis
+- Conclusiones
+- Propuesta o mejora
+- Presentación formal
+- APA 7
+- Coherencia interna
+
+El cierre no es solo “escribir bonito”. CUN dice que investigar es comprender, analizar y proponer soluciones reales; el SENA remata con que el informe debe comunicar resultados de manera organizada y coherente.
+
+## Qué sí uniría y qué no
+
+**Uniría**
+
+- **Planteamiento a la acción + Etapas de la investigación**  
+    Porque uno explica la estructura lógica y el otro la ruta temporal.
+
+**Dejaría separados**
+
+- Tema e idea
+- Enfoque
+- Problema
+- Objetivos
+- Niveles
+- Métodos
+- Marco teórico
+- Hipótesis
+
+**Marco teórico e hipótesis** pueden ir juntos en un mismo bloque, pero yo los escribiría en este orden: **primero marco teórico, después hipótesis**, porque la hipótesis se apoya en lo que ya se sabe y en las variables que salen del problema y los objetivos.
+
+Tu proyecto, entonces, no está hecho de temas sueltos: está hecho de una **cadena lógica** donde cada pieza depende de la anterior. Eso es exactamente lo que CUN y SENA están intentando enseñarte.
