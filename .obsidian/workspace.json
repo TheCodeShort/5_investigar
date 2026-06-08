@@ -34,10 +34,8 @@
               "type": "pdf",
               "state": {
                 "file": "1_infor_doc/0_info.pdf",
-                "page": 13,
-                "left": -26,
-                "top": 6,
-                "zoom": 0.6140625
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "0_info"
@@ -100,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1795b3d2c14702a0",
