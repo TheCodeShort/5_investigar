@@ -1,4 +1,3 @@
-
 # Una buena base 
 
 ![[2_base_que_la_sostiene.png]]
